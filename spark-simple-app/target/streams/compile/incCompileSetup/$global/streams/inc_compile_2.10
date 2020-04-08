@@ -1,0 +1,142 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/hyj2508/spark-simple-app/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+4 items
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> /home/hyj2508/spark-simple-app/target/scala-2.10/classes/com/example/chapter4/SundayCount$$anonfun$1.class
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> /home/hyj2508/spark-simple-app/target/scala-2.10/classes/com/example/chapter4/SundayCount$$anonfun$2.class
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> /home/hyj2508/spark-simple-app/target/scala-2.10/classes/com/example/chapter4/SundayCount$.class
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> /home/hyj2508/spark-simple-app/target/scala-2.10/classes/com/example/chapter4/SundayCount.class
+binary dependencies:
+4 items
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> /home/hyj2508/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.8.2.jar
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> /home/hyj2508/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.6.1.jar
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> /home/hyj2508/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> /usr/java/jdk1.8.0_241-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+4 items
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> com.example.chapter4.SundayCount
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> com.example.chapter4.SundayCount$
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> com.example.chapter4.SundayCount$$anonfun$1
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> com.example.chapter4.SundayCount$$anonfun$2
+used names:
+52 items
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> <
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> <init>
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> ==
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> AnyRef
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> Array
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> ClassTag
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> DateTime
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> DateTimeConstants
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> DateTimeFormat
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> IllegalArgumentException
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> Predef
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> SparkConf
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> SparkContext
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> String
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> StringContext
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> SundayCount
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> Unit
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> apache
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> apply
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> args
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> chapter4
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> com
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> conf
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> count
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> dateStr
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> dateTime
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> dateTimeRDD
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> example
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> filePath
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> filter
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> forPattern
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> format
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> getDayOfWeek
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> joda
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> length
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> map
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> materializeClassTag
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> numOfSunday
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> org
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> package
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> parse
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> pattern
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> println
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> s
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> sc
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> scala
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> spark
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> stop
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> sundayRDD
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> textFile
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> textRDD
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> time
+product stamps:
+4 items
+/home/hyj2508/spark-simple-app/target/scala-2.10/classes/com/example/chapter4/SundayCount$$anonfun$1.class -> lastModified(1586333717000)
+/home/hyj2508/spark-simple-app/target/scala-2.10/classes/com/example/chapter4/SundayCount$$anonfun$2.class -> lastModified(1586333717000)
+/home/hyj2508/spark-simple-app/target/scala-2.10/classes/com/example/chapter4/SundayCount$.class -> lastModified(1586333717000)
+/home/hyj2508/spark-simple-app/target/scala-2.10/classes/com/example/chapter4/SundayCount.class -> lastModified(1586333717000)
+source stamps:
+1 items
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> hash(5942d71e8141149c44f53a33752d8e3fe4178bd0)
+binary stamps:
+4 items
+/home/hyj2508/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.8.2.jar -> lastModified(1439295129000)
+/home/hyj2508/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.6.1.jar -> lastModified(1457578366000)
+/home/hyj2508/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar -> lastModified(1396783702000)
+/usr/java/jdk1.8.0_241-amd64/jre/lib/rt.jar -> lastModified(1586325755000)
+class names:
+4 items
+/home/hyj2508/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.8.2.jar -> org.joda.time.base.AbstractDateTime
+/home/hyj2508/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.6.1.jar -> org.apache.spark.SparkContext
+/home/hyj2508/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar -> scala.package$
+/usr/java/jdk1.8.0_241-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD8/dbQAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHBCqDx0AAZub3RpZnlzcQB+AAx2ApspdAAEd2FpdHNxAH4ADFUEL5J0AA0kYXNJbnN0YW5jZU9mc3EAfgAMp7RR0HQABmVxdWFsc3NxAH4ADLA0SpV0AAxhc0luc3RhbmNlT2ZzcQB+AAyWHgxtdAAMc3luY2hyb25pemVkc3EAfgAMyV0MhHQADSRpc0luc3RhbmNlT2ZzcQB+AAymxYcadAAEbWFpbnNxAH4ADI/mGBl0AAlub3RpZnlBbGxzcQB+AAybilYOdAAMaXNJbnN0YW5jZU9mc3EAfgAM6fAom3QAAj09c3EAfgAMKFlsYnQAC1N1bmRheUNvdW50c3EAfgAMozsv73QABWNsb25lc3EAfgAMTL8z9HQACHRvU3RyaW5nc3EAfgAMUsvosXQAAiE9c3EAfgAMcbwgLXQACGdldENsYXNzc3EAfgAMYSKtLHQAAm5lc3EAfgAMOHZPTnQAAmVxc3EAfgAMbxACbnQAAiMjc3EAfgAMALQVfHQACGZpbmFsaXplc3EAfgAM5osLenQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAIGNvbS5leGFtcGxlLmNoYXB0ZXI0LlN1bmRheUNvdW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AWnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWQBwc3EAfgBec3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYnNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AbHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ac1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AYXNxAH4AcnQABUFycmF5cQB+AHh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AcnQABlN0cmluZ3NxAH4AdnNxAH4AeXVxAH4AfAAAAANzcQB+AH50AARqYXZhc3EAfgB+dAAEbGFuZ3EAfgCDc3EAfgBZAHBzcQB+AF51cQB+ADwAAAAAc3EAfgBZAHBzcQB+AF51cQB+AJcAAAACc3EAfgBydAAGT2JqZWN0cQB+AJtzcQB+AHJ0AANBbnlxAH4AeHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAFGNvbS5leGFtcGxlLmNoYXB0ZXI0c3EAfgCudAALY29tLmV4YW1wbGVzcQB+AK50AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXFY20eNdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOC9ob21lL2h5ajI1MDgvc3Bhcmstc2ltcGxlLWFwcC90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUWULXHoFBFJxE9TozdS2OP+QXi9A=
+external apis:
+0 items
+source infos:
+1 items
+/home/hyj2508/spark-simple-app/src/main/scala/com/example/chapter4/SundayCount.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcVjbR411cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL2h5ajI1MDgvc3Bhcmstc2ltcGxlLWFwcC90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
